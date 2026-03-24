@@ -1,5 +1,7 @@
 # Hacker News Project
 
+https://recepmay.github.io/HackerNews/
+
 ## Tech stack
 
 * [Angular CLI](https://github.com/angular/angular-cli) 12.2.0 
