@@ -2,6 +2,10 @@
 
 https://recepmay.github.io/hacker-news/
 
+- npm install -g angular-cli-ghpages
+- ng build --base-href "https://recepmay.github.io/hacker-news/"
+- npx angular-cli-ghpages --dir=dist/hackernews
+
 ## Tech stack
 
 * [Angular CLI](https://github.com/angular/angular-cli) 12.2.0 
