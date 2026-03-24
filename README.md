@@ -1,6 +1,6 @@
 # Hacker News Project
 
-https://recepmay.github.io/HackerNews/
+https://recepmay.github.io/hacker-news/
 
 ## Tech stack
 
